@@ -1,0 +1,33 @@
+nav {
+  border: 1px solid black;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+nav li{
+  margin: 5px;
+  display: inline;
+  list-style-type: none;
+}
+
+.onPage {
+  color: red;
+}
+
+.logo {
+  height:35px;
+  width: 35px;
+}
+
+footer {
+  margin-left: 40%;
+  margin-right:40%;
+}
+
+footer li {
+  display: inline;
+  margin: 5px;
+}
