@@ -13,6 +13,8 @@ This is an introductory NSS Evening Cohort 3 exercise that focuses on semantic H
     - [Tools] (#tools)
     - [Specifications] (#specifications)
 
+==============================
+
 ## Viewing/Downloading Project
 
 ### To View Hosted Project
