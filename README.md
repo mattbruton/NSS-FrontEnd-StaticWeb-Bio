@@ -31,6 +31,6 @@ Navigate to the project from the directory it was cloned into:
 
 Type:
 
-`http-server` in terminal or CLI of choice.
+`http-server` in terminal or interface of your choice.
 
 You should now be able to open your browser and type `localhost:8080` to view the project.
