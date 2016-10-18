@@ -21,11 +21,11 @@ This is an introductory NSS Evening Cohort 3 exercise that focuses on semantic H
 
 Clone the repository from GitHub:
 
-`git clone https://github.com/mattbruton/html-exercise-bio.git`
+`git clone https://github.com/mattbruton/NSS-FrontEnd-StaticWeb-Bio.git`
 
 Navigate to the project from the directory it was cloned into:
 
-`cd html-exercise-bio/`
+`cd NSS-FrontEnd-StaticWeb-Bio/`
 
 ## To Run
 
