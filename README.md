@@ -58,6 +58,8 @@ You should now be able to open your browser and type `localhost:8080` to view th
 
 ### Specifications
 
+==============================
+
 Create a two page site for your own personal branding. This is an HTML exercises, so while you may style this site to your heart's content, we will be focusing on the HTML structure and syntax of your code.
 
 ### Pages
@@ -90,3 +92,5 @@ Each page should have an `<h1>` title contained in the appropriate HTML5 semanti
 #### Page footer
 
 Each page should have the same footer information. Put whatever information you like in the footer.
+
+==============================
